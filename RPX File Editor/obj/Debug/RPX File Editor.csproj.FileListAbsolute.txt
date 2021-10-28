@@ -1,0 +1,52 @@
+C:\Users\toron\source\repos\RPX File Editor\obj\Debug\RPX File Editor.csprojAssemblyReference.cache
+C:\Users\toron\source\repos\RPX File Editor\obj\Debug\RPX_File_Editor.Form1.resources
+C:\Users\toron\source\repos\RPX File Editor\obj\Debug\RPX_File_Editor.Properties.Resources.resources
+C:\Users\toron\source\repos\RPX File Editor\obj\Debug\RPX File Editor.csproj.GenerateResource.cache
+C:\Users\toron\source\repos\RPX File Editor\obj\Debug\RPX File Editor.csproj.CoreCompileInputs.cache
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\RPX File Editor.exe.config
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\RPX File Editor.exe
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\RPX File Editor.pdb
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Buffers.dll
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Collections.Immutable.dll
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Memory.dll
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Buffers.xml
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Collections.Immutable.xml
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Memory.xml
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\toron\source\repos\RPX File Editor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\toron\source\repos\RPX File Editor\obj\Debug\RPX File Editor.csproj.CopyComplete
+C:\Users\toron\source\repos\RPX File Editor\obj\Debug\RPX File Editor.exe
+C:\Users\toron\source\repos\RPX File Editor\obj\Debug\RPX File Editor.pdb
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\RPX File Editor.exe.config
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\RPX File Editor.exe
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\RPX File Editor.pdb
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Buffers.dll
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Collections.Immutable.dll
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Memory.dll
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Numerics.Vectors.dll
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Reflection.Metadata.dll
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Text.Encoding.CodePages.dll
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Buffers.xml
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Collections.Immutable.xml
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Memory.xml
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Numerics.Vectors.xml
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Reflection.Metadata.xml
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\obj\Debug\RPX_File_Editor.Form1.resources
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\obj\Debug\RPX_File_Editor.Properties.Resources.resources
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\obj\Debug\RPX File Editor.csproj.GenerateResource.cache
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\obj\Debug\RPX File Editor.csproj.CoreCompileInputs.cache
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\obj\Debug\RPX File Editor.csproj.CopyComplete
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\obj\Debug\RPX File Editor.exe
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\obj\Debug\RPX File Editor.pdb
+G:\Fichier de bureau\Wii U\RPX File Editor\RPX File Editor\obj\Debug\RPX File Editor.csproj.AssemblyReference.cache

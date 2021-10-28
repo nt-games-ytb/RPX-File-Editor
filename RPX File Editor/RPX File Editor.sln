@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPX File Editor", "RPX File Editor.csproj", "{263AF4B4-7C08-4553-A224-6C123EA3219F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{263AF4B4-7C08-4553-A224-6C123EA3219F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263AF4B4-7C08-4553-A224-6C123EA3219F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263AF4B4-7C08-4553-A224-6C123EA3219F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263AF4B4-7C08-4553-A224-6C123EA3219F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E643B020-1128-4DAA-A8CD-93707F4729AD}
+	EndGlobalSection
+EndGlobal

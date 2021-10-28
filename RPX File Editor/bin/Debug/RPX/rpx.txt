@@ -1,0 +1,39 @@
+minecraft.client.rpx = CC2A60
+t6_cafef_launcher.rpx = 2CC0
+t6_cafef_rpl.rpl = 420880
+t6mp_cafef_rpl.rpl = 4B1F40
+carrot.rpx = 409960
+Turbo.rpx = 1B4A20
+mvplayer.rpl = 4E480
+mw_shamo.rpl = 73B80
+mw_shamo_sbc.rpl = 1400
+RedCarpet.rpx = 3E7C20
+Block.rpx = 1C7760
+nn_olv2.rpl = 6C200
+red-pro2.rpx = 2039E0
+ferrum_app.rpx = 7B5E60
+cross_f.rpx = 47C9E0
+Gambit.rpx = 1F20E0
+U-King.rpx = 48B5E0
+
+
+
+
+Minecraft.Client.rpx (Minecraft)
+t6_cafef_launcher.rpx (Black Ops II)
+t6_cafef_rpl.rpl (Black Ops II)
+t6mp_cafef_rpl.rpl (Black Ops II)
+carrot.rpx (Pikmin 3)
+Turbo.rpx (Mario Kart 8)
+mvplayer.rpl (Mario Kart 8)
+mw_shamo.rpl (Mario Kart 8, Smash 4)
+mw_shamo_sbc.rpl (Mario Kart 8, Smash 4)
+RedCarpet.rpx (Super Mario 3D World)
+Block.rpx (Super Mario Maker)
+nn_olv2.rpl (Super Mario Maker, Smash 4)
+red-pro2.rpx (New Super Marios Bros U)
+ferrum_app.rpx (Pokken)
+cross_f.rpx (Smash 4)
+Gambit.rpx (Splatoon)
+U-King.rpx (Zelda BOTW)
+Others games
